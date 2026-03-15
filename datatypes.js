@@ -1,0 +1,13 @@
+var number=10;
+console.log(number);
+console.log(typeof(number));
+number=false;
+console.log(typeof(number));
+number="tt";
+console.log(typeof(number));
+number=undefined;
+console.log(typeof(number));
+number=null;
+console.log(typeof(number));
+const s1 = Symbol(4);
+console.log(s1);
